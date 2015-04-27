@@ -1,0 +1,14 @@
+D:\WEBs\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Description.txt
+D:\WEBs\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Views\ExternalAuthFacebook\Configure.cshtml
+D:\WEBs\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Views\ExternalAuthFacebook\PublicInfo.cshtml
+D:\WEBs\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\web.config
+D:\WEBs\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\facebookstyles.css
+D:\WEBs\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\Images\facebook-signing.png
+D:\WEBs\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\logo.jpg
+D:\WEBs\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.dll.config
+D:\WEBs\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.dll
+D:\WEBs\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.pdb
+D:\WEBs\nopCommerce_3.50_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.csproj.App.config
+D:\WEBs\nopCommerce_3.50_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.csprojResolveAssemblyReference.cache
+D:\WEBs\nopCommerce_3.50_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.dll
+D:\WEBs\nopCommerce_3.50_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.pdb

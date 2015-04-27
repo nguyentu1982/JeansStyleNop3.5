@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=THT\SQLEXPRESS;Initial Catalog=JeansStyle2015;Integrated Security=False;Persist Security Info=False;User ID=sa;Password=niemvui

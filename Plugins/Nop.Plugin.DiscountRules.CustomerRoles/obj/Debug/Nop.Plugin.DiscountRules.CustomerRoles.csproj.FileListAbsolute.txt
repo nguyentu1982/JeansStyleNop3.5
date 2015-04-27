@@ -1,0 +1,10 @@
+D:\WEBs\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Views\DiscountRulesCustomerRoles\Configure.cshtml
+D:\WEBs\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Description.txt
+D:\WEBs\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\web.config
+D:\WEBs\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\logo.jpg
+D:\WEBs\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.dll.config
+D:\WEBs\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.dll
+D:\WEBs\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.pdb
+D:\WEBs\nopCommerce_3.50_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\Nop.Plugin.DiscountRules.CustomerRoles.dll
+D:\WEBs\nopCommerce_3.50_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\Nop.Plugin.DiscountRules.CustomerRoles.pdb
+D:\WEBs\nopCommerce_3.50_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\Nop.Plugin.DiscountRules.CustomerRoles.csprojResolveAssemblyReference.cache
